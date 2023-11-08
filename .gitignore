@@ -1,0 +1,8 @@
+﻿/DB/bin/
+/DB/obj/
+/Domain/bin/
+/Domain/obj/
+/Blazor/obj/
+/Blazor/bin/
+/WebAPI/bin/
+/WebAPI/obj/
